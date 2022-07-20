@@ -6,3 +6,12 @@
 - should follow common best practices and patterns
 - should be fun to write and to maintain
 
+1.1. Focus on "naming" things
+- names should be meaningful
+- name casing {
+    snake_case e.g. Python -> Variables, functions, methods
+    camelCase e.g. Java, JavaScript -> Variables, functions, methods
+    PascalCase e.g. Python, Java, JavaScript ->  Classes
+    kebab-case e.g. HTML -> Custom HTML Elements
+}
+
