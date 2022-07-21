@@ -23,3 +23,4 @@
 - use code formatting to improve readability
 - formatting rules differ between languages
 - keep related concepts close together
+- break long statements into shorter ones
