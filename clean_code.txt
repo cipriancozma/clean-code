@@ -16,3 +16,10 @@
 }
 
 1.2. Code Structure, Comments and Formatting
+- avoid comments if we use proper names in our code
+- comment out code just for reference, if not, just delete it
+- using comments for explanations which can't be replaced by good names
+- comments can be used for to do's to know what to do in our code
+- use code formatting to improve readability
+- formatting rules differ between languages
+- keep related concepts close together
