@@ -30,5 +30,6 @@
 - the function should be easy to call and easy to understand
 - write functions with more than one argument with caution
 - always avoid having functions with more than 3 arguments
-- stay DRY - Don't repeat yourself
+- stay DRY - Don't repeat yourself (don't write the same code more than once)
 - split functions to stay DRY
+- in programming REUSABILITY matters
