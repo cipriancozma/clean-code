@@ -33,3 +33,6 @@
 - stay DRY - Don't repeat yourself (don't write the same code more than once)
 - split functions to stay DRY
 - in programming REUSABILITY matters
+- don't overdo it - avoid useless extractions
+- split functions reasonably
+- being as granular as possible won't automatically improve readability
