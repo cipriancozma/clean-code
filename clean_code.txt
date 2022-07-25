@@ -36,3 +36,13 @@
 - don't overdo it - avoid useless extractions
 - split functions reasonably
 - being as granular as possible won't automatically improve readability
+- try keeping functions pure (same inputs generates the same output)
+- pure functions doesn't have side effects
+- functions should not have any unexpected side effects
+- unit testing matters and help a lot
+
+
+1.4. Control Structures & Errors
+- code smart, not verbose
+- keep your control structures Clean
+- avoid deep nesting (use factory functions and polymorphism)
